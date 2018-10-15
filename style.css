@@ -1,0 +1,41 @@
+.star-text{
+    display: flex;
+    justify-content: space-between;
+
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 130px;
+    
+}
+.card{
+    border: none; 
+}
+img{
+    width: 145px;
+}
+p{
+    margin: 0px;
+}
+.p-year{
+    margin-top: 10px;
+}
+.title-color, i{
+    color: #737273;
+}
+i{
+    margin-top : 10px;
+    
+}
+.free-color{
+    color: #85c390;
+    margin-top : 10px;
+}
+.p-year:hover{
+    text-decoration: underline;
+}
+.title-color:hover{
+    text-decoration: underline;
+    
+}
